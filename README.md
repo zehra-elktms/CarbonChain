@@ -1,5 +1,4 @@
-# CarbonChain
-TÜBİTAK 2209-A Supported Research Project - Hyperledger Fabric Based Carbon Footprint Tracking Platform
+
 # CarbonChain 
 
 ## TÜBİTAK 2209-A Destekli Araştırma Projesi
