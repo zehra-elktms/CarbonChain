@@ -1,6 +1,5 @@
 
 # CarbonChain 
-
 ## TÜBİTAK 2209-A Destekli Araştırma Projesi
 
 CarbonChain, şirketlerin karbon ayak izi verilerini güvenli, şeffaf ve doğrulanabilir şekilde yönetmesini sağlayan Hyperledger Fabric tabanlı bir karbon yönetim platformudur.
